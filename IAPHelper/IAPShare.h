@@ -6,8 +6,6 @@
 //  Copyright (c) 2012 Edenpod. All rights reserved.
 //
 
-// testtest
-
 #import <Foundation/Foundation.h>
 #import "IAPHelper.h"
 @interface IAPShare : NSObject
